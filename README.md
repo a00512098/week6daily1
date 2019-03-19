@@ -19,8 +19,8 @@
 This is how the app looks:
 
 | Main Activity | On Long Click | Small Image | Full Image |
-| ------------- | ------------- | ----------- | ---------- |
-| ![alt text][img1] | | ![alt text][img2] | | ![alt text][img3] | | ![alt text][img4] | 
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| ![alt text][img1] | ![alt text][img2] | ![alt text][img3] | ![alt text][img4] | 
 
 [img1]: https://github.com/a00512098/screenshots/blob/master/week6day1/device-2019-03-19-090318.png?raw=true "Main Activity"
 [img2]: https://github.com/a00512098/screenshots/blob/master/week6day1/device-2019-03-19-090402.png?raw=true "On Long Click"
