@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week 6 Daily 1</string>
+    <string name="title_s">Title: %s</string>
+    <string name="date_take_s">Date take: %s</string>
+    <string name="select_picture">Select Picture</string>
+    <string-array name="dialog_options">
+        <item>Show Full Image</item>
+        <item>Show Small Image</item>
+    </string-array>
+</resources>
